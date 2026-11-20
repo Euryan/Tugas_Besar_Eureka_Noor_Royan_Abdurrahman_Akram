@@ -182,7 +182,7 @@ $panah = '<svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.7
           <p class="text-xs text-gray-500"><?php echo beranda_h($tanggal); ?></p>
         </div>
         <div class="mt-6 flex flex-1 items-center justify-center rounded-2xl bg-gray-100 p-8">
-          <img src="ilustrasi.svg" alt="Ilustrasi" class="max-h-72 w-full object-contain">
+          <img src="assets/images/ilustrasi.svg" alt="Ilustrasi" class="max-h-72 w-full object-contain">
         </div>
       </div>
 

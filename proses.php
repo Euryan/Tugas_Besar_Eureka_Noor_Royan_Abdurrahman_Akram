@@ -45,6 +45,6 @@ if (isset($_POST['password'])) {
     echo "Dengan password: " . htmlspecialchars($password) . "! Data telah diterima."."<br>" ;
 }
 ?>
-<img src="Jokowi.png" alt="Gambar" ">
+<img src="assets/images/Jokowi.png" alt="Gambar" ">
 </form>
 </main>

@@ -40,7 +40,7 @@ if (!function_exists('nav_link_class')) { function nav_link_class(bool $active):
     <div class="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6 lg:px-8">
         <!-- Logo -->
         <a href="<?php echo htmlspecialchars($navHome, ENT_QUOTES, 'UTF-8'); ?>" class="flex items-center gap-2.5">
-            <img src="logo.png" alt="Logo SIPN" class="h-9 w-auto object-contain">
+            <img src="assets/images/logo.png" alt="Logo SIPN" class="h-9 w-auto object-contain">
             <span class="leading-tight">
                 <span class="block text-base font-bold text-slate-900">SIPN</span>
                 <span class="hidden text-[11px] font-medium text-slate-400 sm:block">Sistem Penilaian Siswa</span>
