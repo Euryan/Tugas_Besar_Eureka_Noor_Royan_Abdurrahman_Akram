@@ -23,7 +23,7 @@ SIPN adalah aplikasi berbasis PHP dan MySQL untuk pengelolaan akun, data siswa, 
 
 ```text
 tugasbesar/
-├── assets/
+├── assets/1
 │   ├── css/                 # Berkas CSS
 │   └── images/              # Logo dan ilustrasi
 ├── database/
@@ -45,6 +45,16 @@ tugasbesar/
 - MySQL 8.0 atau MariaDB yang kompatibel
 - Ekstensi PHP `mysqli`
 - Web browser modern
+
+## Informasi Akun 
+Dalam rangka pengecekan proyek maka penguji dapat menggunakan Akun yang digunakan dalam berikut:
+
+| No | Username | Password | Role |
+| :--- | :---: | :---: | ---:| 
+| 1 | Admin | admin1234 | Admin |
+| 2 | Agus | guru1234 | Guru |
+| 3 | Royan | siswa1234 | Siswa |
+
 
 ## Instalasi
 
